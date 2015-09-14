@@ -2,7 +2,6 @@
 using System.Collections;
 
 public class newPosition : MonoBehaviour {
-	private float Speed = .01f;
 	// Use this for initialization
 	void Start () {
 	
